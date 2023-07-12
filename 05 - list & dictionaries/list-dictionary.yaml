@@ -1,0 +1,10 @@
+cars:
+  - model:
+      color: "red"
+      name: "Mercedes Benz"
+  - model:
+      color: "yellow"
+      name: "Auston martain"
+  - model:
+      color: "Black"
+      name: "BMW"

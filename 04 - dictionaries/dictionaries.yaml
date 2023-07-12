@@ -1,0 +1,7 @@
+
+color: blue
+model:
+  name: "SUV"
+  year: 2005
+price: $4400
+transmission: manual

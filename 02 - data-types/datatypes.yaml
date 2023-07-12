@@ -1,0 +1,20 @@
+# This is an example comment
+
+# Yaml uses Indentation
+
+name: "Cynthia Adams" # string
+age: 30               # number
+city: "New York"      # string
+isMarried: true       # boolean
+skills:
+  - Devops
+  - Programming
+  - Digital Marketing # Lists
+
+# Dictionary Object
+# This is a group of information, under an Item
+Laptop:
+  name: "Macbook Pro"
+  model: 2021
+  chip: "m1 Max"
+

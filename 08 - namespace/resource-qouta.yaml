@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+    name: pods-high
+    namespace: dev
+spec:
+    hard:
+      cpu: "1000"
+      memory: 200Gi
+      pods: "10"
